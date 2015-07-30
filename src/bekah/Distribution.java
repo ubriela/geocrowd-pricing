@@ -1,3 +1,4 @@
+package bekah;
 public class Distribution {
 private int[] pictures;
 private double[] locationPrice;

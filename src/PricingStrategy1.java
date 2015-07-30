@@ -13,9 +13,10 @@ import org.apache.commons.math3.distribution.ZipfDistribution;
  *
  */
 public class PricingStrategy1 {
-
+	
 	public static void main(String[] args) throws Exception {
 		PricingStrategy1 strat = new PricingStrategy1();
+		
 		double W = 1000;// total budget
 		int k = 200; // max number of pics per location that we are willing to
 						// pay for.

@@ -1,3 +1,4 @@
+package bekah;
 import java.util.Random;
 
 public class budgetDistribution {

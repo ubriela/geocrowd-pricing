@@ -1,3 +1,4 @@
+package bekah;
 public class DiversityMetric {
 	public static double shannonEntropy(double[] arr) {
 		int sum = 0;

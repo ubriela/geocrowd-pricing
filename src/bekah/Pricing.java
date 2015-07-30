@@ -1,3 +1,4 @@
+package bekah;
 public class Pricing {
 	public final static double minEntropy = Math.random() * 10 + 1;
 
